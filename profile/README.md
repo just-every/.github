@@ -47,4 +47,5 @@ These tools are designed for specific tasks and outcomes.
 | **[Search](https://github.com/just-every/search)** | A powerful search engine which runs on all major providers at once. | MIT |
 | **[MCP Tools](https://github.com/orgs/just-every/repositories?q=mcp)** | We publish a number of MCP tools which help speed up development. | MIT |
 
-Some of these tools are more commerical and licensed under AGPLv3. We absolutely still enourage forks, PRs and commerical use. However if you run one of the AGPLv3 tools for users over a network, you must publish your source too. This ensures that the most commerically beneficial tools are available for all.
+> [!IMPORTANT]
+> Some of these tools are more commerical and licensed under AGPLv3. We absolutely still enourage forks, PRs and commerical use. However if you run one of the AGPLv3 tools for users over a network, you must publish your source too. This ensures that the most commerically beneficial tools are available for all.
