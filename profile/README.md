@@ -23,25 +23,28 @@ You’re not required to, but we ask you to join our Profit Pledge and donate **
 
 These general tools which drive the rest of our infrastructure. They are designed to be fast, efficient and (relatively) easy to use.
 
-| Name | Purpose |
-|------|---------|
-| **[Ensemble](https://github.com/just-every/ensemble)** | Unified interface to all major LLMs. |
-| **[Task](https://github.com/just-every/task)** | Expands Ensemble to perform intelligent, reflective, task execution. |
-| **[Magi](https://github.com/just-every/magi)** | Orchestrates Tasks with a persistent chain of thought - Mostly Autonomous Generative Intelligence. |
+| Name | Purpose | License |
+|------|---------|---------|
+| **[Ensemble](https://github.com/just-every/ensemble)** | Unified interface to all major LLMs. | MIT |
+| **[Task](https://github.com/just-every/task)** | Expands Ensemble to perform intelligent, reflective, task execution. | MIT |
+| **[Magi](https://github.com/just-every/magi)** | Orchestrates Tasks with a persistent chain of thought - Mostly Autonomous Generative Intelligence. | MIT |
 
 Every line of code here is MIT-licensed, forkable, remixable — designed to collapse the gap between *idea* and *impact*.
-Fork it, improve it, run with it.
+Fork it, improve it, run your business on it!
 
 > [!TIP]
 > Our ultimate goal is to enable Magi to self improve - to become Gödel machine, if you like - so that progress can continue faster than we can push it ourselves. While we don't have billions of dollars, we do have an open community and the ability to leverage public SOTA models from *every* provider, all at once.
 
-## Additional Tools
+## Focused Tools
 
-These tools are focused on individual tasks and outcomes.
+These tools are designed for specific tasks and outcomes.
 
-| Name | Purpose |
-|------|---------|
-| **[Manager](https://github.com/just-every/manager)** | Helps you manage yourself and your team. |
-| **[Design](https://github.com/just-every/design)** | Takes on the role of a professional designer. |
-| **[Search](https://github.com/just-every/search)** | A powerful search engine which runs on all major providers at once. |
-| **[MCP Tools](https://github.com/orgs/just-every/repositories?q=mcp)** | We publish a number of MCP tools which help speed up development. |
+| Name | Purpose | License |
+|------|---------|---------|
+| **[App](https://github.com/just-every/app)** | Build just every... app! | AGPLv3 |
+| **[Manager](https://github.com/just-every/manager)** | Helps you manage yourself and your team. | AGPLv3 |
+| **[Design](https://github.com/just-every/design)** | Performs the role of a professional designer. | AGPLv3 |
+| **[Search](https://github.com/just-every/search)** | A powerful search engine which runs on all major providers at once. | MIT |
+| **[MCP Tools](https://github.com/orgs/just-every/repositories?q=mcp)** | We publish a number of MCP tools which help speed up development. | MIT |
+
+Some of these tools are more commerical and licensed under AGPLv3. We absolutely still enourage forks, PRs and commerical use. However if you run one of the AGPLv3 tools for users over a network, you must publish your source too. This ensures that the most commerically beneficial tools are available for all.
