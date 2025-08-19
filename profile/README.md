@@ -18,7 +18,7 @@ These tools are designed for specific tasks and outcomes.
 
 | Name | Purpose | License |
 |------|---------|---------|
-| **[Coder](https://github.com/just-every/coder)** | Command-line coding agent (maintained fork of `openai/codex`). | Apache-2.0 |
+| **[Code](https://github.com/just-every/code)** | Command-line coding agent (maintained fork of `openai/codex`). | Apache-2.0 |
 | **[MCP Tools](https://github.com/orgs/just-every/repositories?q=mcp)** | A growing set of MCP tools to speed up development. | MIT |
 | **[Search](https://github.com/just-every/search)** | Meta search engine that queries multiple providers at once. | MIT |
 | **[Crawl](https://github.com/just-every/crawl)** | Read pages/sites and convert to clean Markdown fast. | MIT |
