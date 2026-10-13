@@ -44,7 +44,11 @@ git clone https://github.com/just-every/run-uptime
 cd run-uptime && rer dev
 ```
 
-It sets up a local owner and prints a link that opens the app, signed in. Swap `run-uptime` for any repo above. No npm? `curl -fsSL https://runeditrun.com/install.sh | sh` installs the same command.
+It sets up a local owner and prints a link that opens the app, signed in. Swap `run-uptime` for any repo above. No npm? This installs the same command:
+
+```sh
+curl -fsSL https://runeditrun.com/install.sh | sh
+```
 
 Issues, pull requests and collaborators are welcome on every repo.
 
