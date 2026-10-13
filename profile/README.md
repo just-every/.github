@@ -7,8 +7,8 @@
 </a>
 
 <p align="center">
-  <b>High-quality, open-source alternatives to the software you rent.</b> 100% free and MIT licensed.<br>
-  <a href="https://justevery.com"><b>justevery.com&nbsp;→</b></a>
+  <b>High-quality, open-source alternatives to the software you rent.</b><br>
+  100% free and MIT licensed. <a href="https://justevery.com"><b>justevery.com&nbsp;→</b></a>
 </p>
 
 ## Pick your replacement.
