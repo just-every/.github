@@ -32,7 +32,7 @@ Fourteen products so far, each one an alternative to software you're probably pa
 <a href="https://github.com/just-every/run-spool"><img src="https://raw.githubusercontent.com/just-every/.github/main/profile/assets/cards/spool.webp" width="276" alt="Spool: error tracking, alternative to Sentry. JavaScript errors, traced to the exact line in your source."></a>
 </p>
 
-<p align="center"><b>Homepages:</b> <a href="https://run-uptime.com">Uptime</a> · <a href="https://run-nook.com">Nook</a> · <a href="https://run-cradle.com">Cradle</a> · <a href="https://run-slate.com">Slate</a> · <a href="https://run-pencil.com">Pencil</a> · <a href="https://run-mango.com">Mango</a> · <a href="https://run-penny.com">Penny</a> · <a href="https://run-oncall.com">Oncall</a> · <a href="https://run-spool.com">Spool</a></p>
+<p align="center"><b>Homepages:</b> <a href="https://run-uptime.com">Uptime</a> · <a href="https://run-nook.com">Nook</a> · <a href="https://run-lamp.com">Lamp</a> · <a href="https://run-cradle.com">Cradle</a> · <a href="https://run-vector.com">Vector</a> · <a href="https://run-slate.com">Slate</a> · <a href="https://run-pencil.com">Pencil</a> · <a href="https://run-orbit.com">Orbit</a> · <a href="https://run-mango.com">Mango</a> · <a href="https://run-dial.com">Dial</a> · <a href="https://run-penny.com">Penny</a> · <a href="https://run-oncall.com">Oncall</a> · <a href="https://run-spool.com">Spool</a></p>
 
 ## Run one yourself.
 
